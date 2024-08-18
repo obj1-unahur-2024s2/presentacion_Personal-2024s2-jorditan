@@ -1,35 +1,17 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo UNAHUR](./assets/banner.jpg)
 
-Bienvenidxs a
-# Programación con objetos I
+# ¡Hola!
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Voy a inspirarme y repetir lo mismo que dice la imágen de arriba. Mi nombre es Matías Owen Jordán, soy diseñador UX/UI y trainee Front-End. Desde chico me gustan mucho las artes digitales y el diseño multimedia. Sin embargo, también tengo una gran pasión por la programación. Me encantaría poder **generar programas y sistemas**' que mezclen ambos conocimientos.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+![image](https://github.com/user-attachments/assets/095f4b2a-3b55-4203-83fb-e37e3e86307d)
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+## Gustos personales
+* La música y el cine 🎥
+* Museos, eventos y ferias 🎡
+* Entrenar 🏋️‍♂️
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+## Redes 🗺️
+- [x] [Perfil de Linkedin](https://www.linkedin.com/in/matias-jordan/)
+- [x] [Instagram](https://www.instagram.com/mmatijordan/)
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
